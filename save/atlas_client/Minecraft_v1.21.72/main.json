@@ -1,0 +1,318 @@
+{
+    "ArmorHUD": {
+        "adaptiveDurabilityColor": true,
+        "durability": true,
+        "enabled": false,
+        "horizontal": false,
+        "itemSize": 6.0,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "textSize": 30.0
+    },
+    "AutoGG": {
+        "enabled": false,
+        "keyBind": 0,
+        "text": "gg"
+    },
+    "AutoSprint": {
+        "enabled": false,
+        "keyBind": 0
+    },
+    "CPSDisplay": {
+        "border": false,
+        "borderThickness": 5.0,
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "opacity": 0.5,
+        "paddingX": 60.0,
+        "paddingY": 30.0,
+        "prefix": "CPS: ",
+        "rounding": 0.0,
+        "suffix": "",
+        "textSize": 50.0
+    },
+    "ChunkBorders": {
+        "enabled": false,
+        "keyBind": 0
+    },
+    "CommandHotkey": {
+        "actionBind": 76,
+        "command": "",
+        "customButtonText": "/",
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 125.0
+    },
+    "CommandShortcuts": {
+        "enabled": false,
+        "keyBind": 0
+    },
+    "CoordinatesDisplay": {
+        "border": false,
+        "borderThickness": 5.0,
+        "enabled": false,
+        "generic.precision": 3,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "opacity": 0.5,
+        "paddingX": 60.0,
+        "paddingY": 30.0,
+        "prefix": "",
+        "rounding": 0.0,
+        "suffix": "",
+        "textSize": 50.0
+    },
+    "Crosshair": {
+        "enabled": false,
+        "keyBind": 0,
+        "redWhenEntityInReach": true
+    },
+    "Environment": {
+        "editWeather": false,
+        "editingTime": true,
+        "enabled": false,
+        "keyBind": 0,
+        "newTime": 0.0,
+        "rainAmount": 0.0,
+        "thunderstormAmount": 0.0
+    },
+    "FPSDisplay": {
+        "border": false,
+        "borderThickness": 5.0,
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "opacity": 0.5,
+        "paddingX": 60.0,
+        "paddingY": 30.0,
+        "prefix": "FPS: ",
+        "rounding": 0.0,
+        "suffix": "",
+        "textSize": 50.0
+    },
+    "Fullbright": {
+        "enabled": false,
+        "gamma": 25.0,
+        "keyBind": 0
+    },
+    "Hitboxes": {
+        "enabled": false,
+        "keyBind": 0
+    },
+    "HurtCam": {
+        "enabled": false,
+        "keyBind": 0
+    },
+    "Keystrokes": {
+        "enabled": false,
+        "keyBind": 0,
+        "keystrokeSize": 60.0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "rounding": 0.0,
+        "spaceBar": true,
+        "spaceBarSize": 30.0,
+        "textSize": 30.0
+    },
+    "Nickname": {
+        "enabled": false,
+        "keyBind": 0,
+        "nickname": ""
+    },
+    "PingDisplay": {
+        "border": false,
+        "borderThickness": 5.0,
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "opacity": 0.5,
+        "paddingX": 60.0,
+        "paddingY": 30.0,
+        "prefix": "Ping: ",
+        "rounding": 0.0,
+        "suffix": "",
+        "textSize": 50.0
+    },
+    "PlayerEffectHUD": {
+        "enabled": false,
+        "hudSize": 1.0,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "showEffectNames": true
+    },
+    "QuickDrop": {
+        "actionBind": 0,
+        "customButtonText": "D",
+        "enabled": true,
+        "javaDrop": true,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.89552241563797,
+            "y": 0.0
+        },
+        "scale": 125.0
+    },
+    "QuickPerspective": {
+        "actionBind": 0,
+        "customButtonText": "F5",
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 125.0
+    },
+    "ReachDisplay": {
+        "border": false,
+        "borderThickness": 5.0,
+        "enabled": false,
+        "generic.precision": 3,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "opacity": 0.5,
+        "paddingX": 60.0,
+        "paddingY": 30.0,
+        "prefix": "Reach: ",
+        "rounding": 0.0,
+        "suffix": " blocks",
+        "textSize": 50.0
+    },
+    "RenderOptions": {
+        "disableBlockEntities": false,
+        "disableEntities": false,
+        "disableParticles": false,
+        "enabled": false,
+        "keyBind": 0
+    },
+    "ServerDisplay": {
+        "border": false,
+        "borderThickness": 5.0,
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "opacity": 0.5,
+        "paddingX": 60.0,
+        "paddingY": 30.0,
+        "prefix": "",
+        "rounding": 0.0,
+        "showFeaturedName": true,
+        "showNumericIP": false,
+        "suffix": "",
+        "textSize": 50.0
+    },
+    "SpeedDisplay": {
+        "border": false,
+        "borderThickness": 5.0,
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "opacity": 0.5,
+        "paddingX": 60.0,
+        "paddingY": 30.0,
+        "prefix": "",
+        "rounding": 0.0,
+        "suffix": " m/s",
+        "textSize": 50.0
+    },
+    "TextHotkey": {
+        "actionBind": 89,
+        "customButtonText": "T",
+        "enabled": false,
+        "keyBind": 0,
+        "message": "Atlas Client on top!",
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 125.0
+    },
+    "ThirdPersonNametag": {
+        "enabled": false,
+        "keyBind": 0
+    },
+    "ViewModel": {
+        "enabled": false,
+        "keyBind": 0,
+        "rotationX": 0.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0,
+        "translationX": 0.0,
+        "translationY": 0.0,
+        "translationZ": 0.0
+    },
+    "Zoom": {
+        "actionBind": 67,
+        "customButtonText": "Zm",
+        "enabled": false,
+        "keyBind": 0,
+        "minecraftFont": true,
+        "modulePos": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "scale": 125.0,
+        "zoomAmount": 50.0
+    },
+    "global": {
+        "disableVSync": true,
+        "hudSnapToGrid": true,
+        "menuButtonPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "searchDescriptions": true,
+        "showModulesEverywhere": true
+    }
+}
